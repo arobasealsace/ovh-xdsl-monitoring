@@ -1,4 +1,4 @@
-<!-- Développer par Gabriel Tresch -->
+<!-- Développé par Gabriel Tresch -->
 <?php
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;

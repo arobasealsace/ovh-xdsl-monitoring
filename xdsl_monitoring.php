@@ -144,7 +144,7 @@ try {
 							    $mail->addAddress("$recipient");
 					 		    // $mail->addReplyTo("", "");
 					 		    //$mail->addCC('cc@example.com');
-					 		    $mail->addBCC("");
+					 		    //$mail->addBCC("");
 					 		    //$mail->addBCC("");
 					 		    //Attachments
 					 		    //$mail->addAttachment('');

@@ -17,6 +17,8 @@ Code nécessaire au fonctionnement du script :
 La seule chose que vous devez faire pour que le script fonctionne est de modifier ou remplir les variables suivantes :
 
 ```php
+//Chemin Serveur
+$pathsite = "";
 // Variables connexion base de données
 $dbHost = "localhost";
 $dbName = "";
